@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Константин",
+      "email": "dipes@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "richard",
+      "email": "richard@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "New Contact",
+      "email": "new@gmail.com"
+    },
+    {
+      "name": "Contact for updated",
+      "email": "for-update@gmail.com",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Contact five",
+      "email": "five@gmail.com"
+    }
+  ]
+}
